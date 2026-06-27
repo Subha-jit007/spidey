@@ -1,0 +1,24 @@
+# Subhajit Mahata
+
+> Subhajit Mahata (also known as **Subha**) is an **AI developer, prompt engineer, Blender 3D artist and n8n automation expert** who builds animation-driven web experiences and AI applications. Portfolio: https://subhajitmahata.vercel.app/
+
+## About
+
+- **Name:** Subhajit Mahata (Subha)
+- **Role:** AI Developer · Prompt Engineer · Animation & Blender 3D Artist · n8n Automation Engineer · Designer
+- **Tagline:** "Friendly neighbourhood AI developer — with great prompts comes great outputs."
+- **Skills:** Prompt engineering, AI app development, generative AI, animation, Blender 3D, n8n workflow automation, Three.js, creative front-end / web development, motion design.
+
+## Projects (Missions)
+
+- [Clawed](https://clawed-five.vercel.app/): A pixel-crab desktop pet built in Python with AI that lives on your screen. Tags: Python, AI, desktop pet.
+- [Cutty City](https://city-bice-sigma.vercel.app/): An open-world 3D city running in the browser. Tags: Three.js, Rapier physics.
+- [Neon Room](https://neon-room-walkthrough.vercel.app/): A room modelled in Blender, made walkable on the web. Tags: Blender, 3D walkthrough.
+
+## Contact
+
+- Email: subhajitmahata844@gmail.com
+- GitHub: https://github.com/Subha-jit007
+- LinkedIn: https://www.linkedin.com/in/subhajit-mahata
+- Instagram: https://www.instagram.com/_subh_a15/
+- X / Twitter: https://x.com/subhajitmahata_

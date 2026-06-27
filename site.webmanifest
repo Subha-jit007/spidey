@@ -1,0 +1,13 @@
+{
+  "name": "Subhajit Mahata — AI Developer Portfolio",
+  "short_name": "S.Mahata",
+  "description": "Portfolio of Subhajit Mahata — AI developer, prompt engineer, Blender 3D artist and n8n automation expert.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#131015",
+  "theme_color": "#e62429",
+  "icons": [
+    { "src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
